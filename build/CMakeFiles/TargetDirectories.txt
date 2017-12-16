@@ -1,0 +1,1 @@
+/home/yuhongwei/Desktop/kinect_data/build/src/CMakeFiles/kor.dir
